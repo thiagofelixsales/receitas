@@ -1,2 +1,2 @@
-# receitas
-Projeto Academico
+# arquitetura-css
+curso de arquitetura da Alura. 
